@@ -1,0 +1,1 @@
+select avg(mark) from test where userid='32' and month(date)='4' and status='Finished'
